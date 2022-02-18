@@ -1,0 +1,13 @@
+Examples of what we need to collect:,,,,,PyPSA/PyPSA-Eur data,https://github.com/PyPSA/technology-data/blob/master/inputs/costs_PyPSA.csv,,,,,,,,,,,,,,,,
+,,,,,PyPSA-Eur-Sec data collection,https://github.com/PyPSA/technology-data/blob/master/inputs/manual_input.csv,,,,,,,,,,,,,,,,
+Example,,,,,,,,,,,,,,,,,,,,,,
+technology,parameter,year,value,unit,currency_year,source,Type,Carrier static,Carrier in,Carrier out,p static,p in,p out,unit,T static,T in,T out,unit,purity static,purity in,purity out,unit
+hydrogen storage tank,investment,2020,100,€/MW,2010,,store,hydrogen,-,-,200,...,,bar,,,,,,,,
+hydrogen storage tank,FOM,2021,,€/MW,2015,,converter,hydrogen,-,-,,,,,,,,,,,,
+hydrogen storage tank,VOM,2017,,$/MWh,...,,,hydrogen,,,,,,,,,,,,,,
+hydrogen storage tank,efficiency,...,,%,,,,hydrogen,-,-,,,,,,,,,,,,
+,lifetime,,,years,,,,,hydrogen,electricity,<--- I.e. Fuel cell,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Collection:,,,,,,,,,,,,,,,,,,,,,,
+technology,parameter,year,value,unit,currency_year,source,type,carrier static,carrier in,carrier out,p static,p in,p out,unit,T static,T in,T out,unit,purity static,purity in,purity out,unit
