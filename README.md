@@ -9,9 +9,9 @@ This repository contains a copy PyPSA-Eur. All new storage technologies will be 
 
 
 ## TEAM AND TOPICS: 
-- Sahil Jotwani (EPE) "Applied review: Modelling and analysing conventional and novel long-term energy storage in a multi-year UK mini-example with PyPSA-Eur-Sec 🇬🇧"
+- Sahil Jotwani (SES) "Applied review: Modelling and analysing conventional and novel long-term energy storage in a multi-year UK mini-example with PyPSA-Eur-Sec 🇬🇧"
 - Jason Poon (SES) "Applied review: Modelling and analysing short and long-term storage by resampled timeseries in UK mini-example with PyPSA-Eur 🇬🇧"
-- Li Yifan(SES) "Considering flexibility of energy storage by including unit-commitment constraints in PyPSA"
+- Jiahui Pan (EPE) "Considering flexibility of energy storage by including unit-commitment constraints in PyPSA"
 - Anas Algarai (SES), "Planning Saudi Arabia’s energy transition for 2030 with PyPSA-Earth", co-supervised by colleagues from leading Turkish universities.
 
 
