@@ -3,6 +3,7 @@ This repository contains a copy PyPSA-Eur. All new storage technologies will be 
 
 
 ## USEFUL LINKS
+- [Googledrive](https://drive.google.com/drive/u/0/folders/1ImmFPFz9CmepU-stJDJQEVuS3h_9S2u8)
 - [Minutes on googledrive](https://docs.google.com/document/d/1PLb1qXFU_-K9g6yOVact8OtQj6CN42Da/edit?usp=sharing&ouid=117256980987005651142&rtpof=true&sd=true)
 - [Porters new storage integrations](https://drive.google.com/drive/u/0/folders/1qtQbJ5KRgPz-oo9uv0cVHx9aB-ynfwN7)
 - [Mission statement and thesis templates](https://drive.google.com/drive/u/0/folders/1YvI1U5HqeSEuht2JlTG9DNvAiSC5BMyI)
