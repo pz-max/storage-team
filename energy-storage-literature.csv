@@ -2,17 +2,22 @@
 Author,Year,Journal,Title,Url,,BACKLOG. Need to be inserted.
 ,,,,,,"We are searching for storage studies that list investment, fixed and variable O&M, lifetime, efficiency and optionally technical/physical constraints."
 ,,,,,,Fraunhofer Storage Study on Hydrogen components: https://www.ise.fraunhofer.de/en/press-media/press-releases/2022/towards-a-gw-industry-fraunhofer-ise-provides-a-deep-in-cost-analysis-for-water-electrolysis-systems.html
-,,,,,,J.Haas, 2017, Renewable and Sustainable Energy Reviews, Challenges and trends of energy storage expansion planning for flexibility provision in low-carbon power systems – a review: https://www.sciencedirect.com/science/article/pii/S1364032117308377
+J.Hass,2017,Renewable and Sustainable Energy Reviews,Challenges and trends of energy storage expansion planning for flexibility provision in low-carbon power systems – a review,https://www.sciencedirect.com/science/article/pii/S1364032117308377
 ,,,,,,"Charvat et al 2022, New organic fuel cell and electrolyser https://www.sciencedirect.com/science/article/pii/S0378775321013021"
+<<<<<<< HEAD
 Kyle Bradbury,2010,ResearchGate,Energy Storage Technology Review,https://www.researchgate.net/publication/265064873_Energy_Storage_Technology_Review
 ,,,,,,"Oliver Schmidt, 2019, Joule, Projecting the Future Levelized Cost of Electricity Storage Technologies: https://www.sciencedirect.com/science/article/pii/S254243511830583X"
+=======
+,,,,,,"Kyle 2010, Energy storage review: https://www.researchgate.net/publication/265064873_Energy_Storage_Technology_Review"
+Schmidt et al.,2019,Joule,Projecting the Future Levelized Cost of Electricity Storage Technologies,https://www.sciencedirect.com/science/article/pii/S254243511830583X,,
+>>>>>>> 6feedb5c00f59a32e1d6cd59b2fdcba7d1744007
 ,,,,,,"Beuse 2020, Storage competition projection https://www.sciencedirect.com/science/article/pii/S2542435120303354"
 ,,,,,,"Javet et al 2020, PEM electrolyser (https://www.cell.com/iscience/fulltext/S2589-0042(21)00698-2)"
 ,,,,,,Buoyant storage: http://www.buoyant-energy.com/files/buoyant_energy_at_a_glance.pdf
 ,,,,,,Pressurized seawater storage https://www.offshoreenergystorage.com
 ,,,,,,Gravity storage https://www.spektrum.de/news/ein-granitblock-voller-energie/1061069 (German)
 ,,,,,,"Dumont et al 2020, Carnot-Battery (heat to electricity) https://www.sciencedirect.com/science/article/pii/S2352152X20315930"
-McTigue,2019,NREL,"Carnot Batteries" for electricity storage,https://www.nrel.gov/docs/fy20osti/75559.pdf,,Carnot Battery NREL https://www.nrel.gov/docs/fy20osti/75559.pdf
+McTigue,2019,NREL,"Carnot Batteries" for electricity storage,https://www.nrel.gov/docs/fy20osti/75559.pdf,,
 ,,,,,,Carnot Battery commercially available https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj4oNiUrYn2AhUBlFwKHV06BXQQFnoECB4QAQ&url=https%3A%2F%2Fwww.mdpi.com%2F1996-1073%2F15%2F2%2F647%2Fpdf&usg=AOvVaw1N6HtMKws_hK6Fl4V1ZDbF
 ,,,,,,"Dowling et al. 2020, Various storage technology https://www.sciencedirect.com/science/article/pii/S2542435120303251"
 ,,,,,,"Mongrid et al. 2020, CAES in great detail https://www.pnnl.gov/sites/default/files/media/file/CAES_Methodology.pdf"
