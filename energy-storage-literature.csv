@@ -1,4 +1,4 @@
-ID,Author,Year,Journal,Title,Url,,BACKLOG. Need to be inserted.
+ID,Author,Year,Journal,Title,Url,,
 1,Gautam,2022,energies,Review and Techno-Economic Analysis of Emerging Thermo-Mechanical Energy Storage Technologies,https://www.mdpi.com/1996-1073/15/17/6328/htm,,
 2,Tom Smolinka et al.,2022,Fraunhofer ISE,Towards a GW industry - Fraunhofer ISE provides a deep-in cost analysis for water electrolysis systems,"https://www.ise.fraunhofer.de/en/press-media/press-releases/2022/towards-a-gw-industry-fraunhofer-ise-provides-a-deep-in-cost-analysis-for-water-electrolysis-systems.html""",,
 3,J.Hass,2017,Renewable and Sustainable Energy Reviews,Challenges and trends of energy storage expansion planning for flexibility provision in low-carbon power systems – a review,https://www.sciencedirect.com/science/article/pii/S1364032117308377,,
@@ -25,3 +25,4 @@ ID,Author,Year,Journal,Title,Url,,BACKLOG. Need to be inserted.
 24,Zang et al.,2022,Journal of Energy Storage,Values of latent heat and thermochemical energy storage technologies in low-carbon energy systems: Whole system approach,https://www.sciencedirect.com/science/article/pii/S2352152X22001621,,
 25,Augustine & Blair,2021,NREL,Storage Futures Study - Storage Technology Modeling Input Data Report,https://www.nrel.gov/docs/fy21osti/78694.pdf,,
 26,Viswanathan et al,2022,PNNL,2022 Grid Energy Storage Technology Cost and Performance Assessment,https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,,
+27,Zeyen et al.,2022,PyPSA,Technology-data repository,https://github.com/PyPSA/technology-data/blob/master/outputs/costs_2030.csv,,
